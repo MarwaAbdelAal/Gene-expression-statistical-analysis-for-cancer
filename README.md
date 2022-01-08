@@ -14,7 +14,7 @@
 - We are going to use hypothesis test assuming that null hypothesis (H0) is gene's expression doesn't affect having cancer and the alternative hypothesis (H1) represents gene's expression affects on existence of cancer.
 
 ***
-#### *For further information you can read the report*
+#### *For further information you can read the [report](final_biostatistics.pdf)*
 ***
 
 
